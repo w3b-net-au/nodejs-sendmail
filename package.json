@@ -1,0 +1,30 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "A NodeJS HTML emailer.",
+  "main": "nodejs-sendmail.js",
+  "scripts": {
+    "run": "node nodejs-sendmail.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3b-net-au/nodejs-sendmail.git"
+  },
+  "keywords": [
+    "Node",
+    "HTML",
+    "email",
+    "mailing",
+    "list"
+  ],
+  "author": "James Young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w3b-net-au/nodejs-sendmail/issues"
+  },
+  "homepage": "https://github.com/w3b-net-au/nodejs-sendmail#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.4"
+  }
+}
