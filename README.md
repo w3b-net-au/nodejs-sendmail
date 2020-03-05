@@ -4,7 +4,7 @@ A NodeJS mailer program
 # How to use
 Ensure you have node and npm installed.
 
-    $ npm install --save nodemailer
+    $ npm install
     $ <edit nodejs-sendmail.js to add your credentials and 'from' line>
     $ node nodejs-sendmail.js
     $ [OR] npm run-script run
