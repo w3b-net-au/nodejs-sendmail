@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/w3b-net-au/nodejs-sendmail#readme",
   "dependencies": {
-    "nodemailer": "^6.4.4"
+    "nodemailer": "^6.4.16"
   }
 }
